@@ -16,5 +16,7 @@
 -Vemos si tenemos todo bien instalado.
 -Al final creamos el primer proyecto Hola Mundo, donde creamos la primera clase Java MainActivity.
 -Crear en res la carpeta layout, y opcional la del menú.
-
+-Corregimos los problemas en el poryecto de HolaMundo y lo ejecutamos y se lanza bien.
+-Dijo que habia un parametro que habia que eliminar en el metodo.
+-Probar a copiar todo en la carpeta de clase para pasar los ejercicios.
 
