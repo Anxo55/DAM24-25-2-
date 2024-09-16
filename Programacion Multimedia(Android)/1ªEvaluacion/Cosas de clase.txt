@@ -1,0 +1,18 @@
+ ----------
+|13/09/2024|
+ ----------
+-Nos unimos al classroom y nos sube informacion de la que se va a basar el curso.
+-Nos sube el indice para ver lo que vamos a dar durante el curso.
+-Por curiosidad buscamos las redes token ring.
+-Una de las bases de datos que se usará en android será SQLite, Firebase.
+-Qemu es un emulador.
+
+ ----------
+|16/09/2024|
+ ----------
+-Vamos a instalar Android Studio, la ultima versión.
+-Empezamos con el capiulo 1.
+-Creamos el primer paquete llamado HolaMundo.
+
+
+

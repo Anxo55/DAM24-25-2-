@@ -1,0 +1,25 @@
+ ----------
+|12/09/2024|
+ ----------
+-Se verá el entorno de desrarollo que vamos a utilizar, por que eclipse con hibernate daba algún error.
+-Para los conectores usará eclipse.
+
+ ----------
+|13/09/2024|
+ ----------
+-Manejo de ficheros.
+-La informacion dentro de un fichero de datos se guardan por campos y registros.
+-Con void no tenia retorno.
+-Captura de excepciones.
+-Se pueden utilziar mas de un catch en el try y por ultimo llegariamos al finally.
+-Ver bien ejemplos de como utilizar el try catch y usando varios catchs a veces.
+
+ ----------
+|16/09/2024|
+ ----------
+-Estamos viendo todavia las excepciones, ver bien el primer ejemplo de piscina, haciendolo todo en eclipse.
+-Podemos hacer clases de excepciones para la clase de pisicina, donde hacemos las excepciones para los metodos,
+ de llenar y vaciar.
+-Ver bien el paquete que nos va a subir y ejecutarlo pero haciendolo nosotros, son copiar lo que hizo el.
+
+

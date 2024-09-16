@@ -1,0 +1,16 @@
+ ----------
+|12/09/2024|
+ ----------
+*VAMOS A APRENDER*
+-erp --> sap, odoo.
+-crm.
+-cms.
+-Vamos a aprender python.
+-Hay que saber y dominar git tambien, lo veremos y daremos git avanzado.
+-Si hay tiempo podemos ver patrones de diseño.
+
+ ----------
+|13/09/2024|
+ ----------
+
+

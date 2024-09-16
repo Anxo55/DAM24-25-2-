@@ -1,0 +1,19 @@
+ ----------
+|12/09/2024|
+ ----------
+-Buscamos una clase de java para manipular una ip, en la que se usa inetAdrress.
+-ssl.
+-Protocolo tcp.
+-Clase server socket.
+-Clase socket.
+-Clase para manipular paquetes tcp en java.
+-Puertos logicos.
+-Todos los programas complejos trabajan con hilos.
+-Diferencia entre preoceso e hilo.
+-Ejemplo de cliente eco.
+
+ ----------
+|16/09/2024|
+ ----------
+
+
