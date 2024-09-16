@@ -13,6 +13,8 @@
 -Vamos a instalar Android Studio, la ultima versión.
 -Empezamos con el capiulo 1.
 -Creamos el primer paquete llamado HolaMundo.
-
+-Vemos si tenemos todo bien instalado.
+-Al final creamos el primer proyecto Hola Mundo, donde creamos la primera clase Java MainActivity.
+-Crear en res la carpeta layout, y opcional la del menú.
 
 
