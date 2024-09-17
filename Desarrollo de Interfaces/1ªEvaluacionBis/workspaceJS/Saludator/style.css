@@ -1,0 +1,35 @@
+body{
+background: linear-gradient(to right, blue, violet );
+color: white;
+/* con el display se alinea y con el direction se coloca bien */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+/* ocupar todo el tamaño de la ventana, asi no le decimos que ocupe
+100 pixeles */
+height: 100vh;
+}
+
+button {
+    background-color: violet;
+    color: white;
+    border: none;
+    padding: 9px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+section {
+    flex: 1;
+}
+
+/* Poner a la derecha de la pagina */
+footer {
+align-self: flex-end;   
+}
+
+button:hover {
+    background-color: lightblue;
+}
+

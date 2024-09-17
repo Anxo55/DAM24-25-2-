@@ -1,0 +1,58 @@
+ ----------
+|12/09/2024|
+ ----------
+*FRONTEND*
+-React--> Libreria
+-Angular-->Framework
+-De la base de html, css y Js, tendremos que trabajar con typeScript.
+-Tambien le gustaría poder ver astroJs que se dedica a las paginas estaticas.
+-Tailwind, framework de css.
+
+*BACKEND*
+-Aprender por nuestra cuenta SpringBoot.
+-Java.
+-PHP.
+-nodeJs-->Para programar en backend, se basa en Js, hay que aprender expressJs.
+-git.
+-Comandos de Linux.
+-Todo apoyado a traves del testing(e2e, unitario).
+-Deploy.
+-Aws.
+-Json.
+-Database.
+
+-Los datos de entre backend y frotend se pasan en json.
+
+ ----------
+|13/09/2024|
+ ----------
+-Descargamos nodeJs, la version v.20.17.0, (LTS).
+-Antes para comprobar si está instalado hay que poner en el cmd node --version.
+-Para empezar un proyecto era: Analisis, Diseño, Codificacion, Pruebas, Deploy, Mantenimiento.
+-Aplicacion de movil, escritorio o web.
+-Mirar Figma.
+-Hay que ver los ciclos de vida que estariamos usando para el proyecto(Cascada, iterativo incremental).
+-Creamos el primer proyecto en workspaceJS, SALUDATOR.
+-Con el code . entramos desde el cmd al visual studio code.
+-Descargar live preview.
+-Al poner el hover al pasar por el boton cambia de color.
+-Usaremos una libreria para usar el confeti en la pagina canvas confeti.
+-git init para el controlador de versiones.
+-Revisar todo de la pagina sencilla que creamos, sobre todo en el css.
+
+ ----------
+|16/09/2024|
+ ----------
+-PR al repositorio remoto.
+-Al instalar node, tambien se descarga npm.
+-Para crear una buena pagina web moderna, necesitamos un gestor de paquetes bueno como son(NPM, PMPM, YARM, BUM).
+-Constructor de aplicaciones(vite, webpack pero es complicado de configurar).
+-npm create vite@latest, para isntalar VITE.
+-Normalmente hay que colocarse en la ruta de la carpeta para hacer el npm create vite@latest.
+-Libreria vamos a construir la aplicacion(REACT, VUE).
+-Lenguaje de programacion a escoger(TypeScript o JavaScript).
+-Framework(nextJs, angular).
+-En el propio visual usamos en la terminal(npm install, despues npm run dev, despues npm build para crearlo en un servidor
+ de verdad).
+-Si se cierra el proyecto hay que usar otra vez npm run dev.
+
