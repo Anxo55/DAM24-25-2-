@@ -56,3 +56,18 @@
  de verdad).
 -Si se cierra el proyecto hay que usar otra vez npm run dev.
 
+ ----------
+|17/09/2024|
+ ----------
+-Empezamos con un poco de repaso del ultimo dia.
+-Vamos a usar toneJs como libreria, para el sonido de las teclas del piano.
+-Tenemos que instalar la libreria del sintetizador para que suenen las teclas.
+-Hay que instalar la dependencia de terceros.
+-Como instalar una dependencia en particular.
+-Evitar crear aplicaciones inamovibles.
+-Colocamos las teclas negras por encima de las blancas con el position absolute.
+-Gradients party en google para poner un fondo determinado.
+-Buscar en paginas para usar el linear gradient, tanto apra algun fondo como para los textos de h1 por ejemplo.
+-Con addEventListener es CLICK siempre.
+-Con el input el Onclick al lado del type.
+

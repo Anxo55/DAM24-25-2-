@@ -3,7 +3,6 @@ package Piscina;
 public class PiscinaLlenaException extends Exception {
 
 	public PiscinaLlenaException() {
-		// TODO Auto-generated constructor stub
 		super("Piscina llena");
 	}
 

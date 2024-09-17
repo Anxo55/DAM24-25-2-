@@ -13,7 +13,16 @@
 -Ejemplo de cliente eco.
 
  ----------
-|16/09/2024|
+|17/09/2024|
  ----------
-
+-Nos unimos hoy al classroom de servicios y procesos.
+-Subida la programacion didactica del modulo.
+-La clase InetAddress.
+-Nunca se instancia, se obtiene un objeto de esta clase().
+-Subimos al classroom el primer ejemplo de la clase inet address.
+-Copiamos el metodo main ya que nos subió el metodo de prueba metodos.
+-En esta clase al introducir el nombre de nuestro equipo nos sale las direcciones de localhost
+ y también con las de google.
+-Tenemos que subir al classroom un recorte de ejecucion de main de InetAddress.
+-El jueves damos URL, aprender a como instanciar.
 

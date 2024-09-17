@@ -16,25 +16,21 @@ public class Piscina {
 			}else {
 				capacidadActual+=numLitros;
 			}
-		}catch(PiscinaLlenaException ple) {
-			//ple.printStackTrace();
-		
+		} catch (Exception e) {
+			
 		}
 	}
 	
 	public void vaciar(int numLitros) throws PiscinaVaciaException{
-		try {
+		
 			if(this.capacidadActual-numLitros<0) {
 				throw new PiscinaVaciaException("INTENTAS QUITAR "+(numLitros-this.capacidadActual)+" LITROS DE MÁS");
 			}else {
 				capacidadActual-=numLitros;
 				System.out.println("QUEDAN "+capacidadActual+" LITROS");
-			}
-		}catch(PiscinaVaciaException pve) {
-			//pve.printStackTrace();
-		}
-		
+			}		
 	}
+
 	@Override
 	public String toString() {
 		return "Piscina [capacidadMaxima=" + capacidadMaxima + ", capacidadActual=" + capacidadActual + "]";

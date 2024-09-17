@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* Hace que siempre esté en el centro. */
+    height: 100vh;
+    /* background-color: aquamarine; */
+    background: linear-gradient(135deg,#667EEA,#6B8DD6,#8E37D7);
+}
+
+h1 {
+    background: #00FF00;
+background: linear-gradient(to left, #00FF00 0%, #00FFFF 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.container {
+    display: flex;
+    position: relative;
+}
+
+.key {
+    border: 1px solid black;
+    cursor: pointer;
+    align-content: end;
+    text-align: center;
+    /* con el atributo de abajo no puede seleccionar nada */
+    user-select: none;
+}
+
+.white-key {
+    width: 50px;
+    height: 200px;
+    background-color: white;
+}
+
+.black-key {
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 25px;
+    position: absolute;
+    font-size: 0.8em;
+}
+ 
+[data-note='C#4'] {left: 40px;}
+[data-note='D#4'] {left: 80px;}
+[data-note='F#4'] {left: 192px;}
+[data-note='G#4'] {left: 250px;}
+[data-note='A#4'] {left: 300px;}
+
+.key:active {
+    background-color: lightgray;
+}

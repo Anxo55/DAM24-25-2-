@@ -22,4 +22,17 @@
  de llenar y vaciar.
 -Ver bien el paquete que nos va a subir y ejecutarlo pero haciendolo nosotros, son copiar lo que hizo el.
 
+ ----------
+|17/09/2024|
+ ----------
+-Propagación de excepciones.
+-Estamos viendo el en ejemplo del try catch del paquete de Piscina como es la diferencia y así podemos comparar
+ las diferencias en dicho programa.
+-Flujo de Propagacion de excepciones.
+-No es bueno abusar de los throws.
+-Vemos otro ejemplo con una clase de gatos.
+-Al llegar a casa revisar tambien lo del paquete de Gatos y ver de nuevo el de piscina.
+-Subidos los pdfs de manejo de excepciones, todo subido en las carpetas para Github.
+-Estamos viendo un ejemplo con numeros al pasar caracteres.
+
 
