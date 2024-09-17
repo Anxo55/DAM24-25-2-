@@ -5,7 +5,6 @@ body {
     align-items: center;
     /* Hace que siempre esté en el centro. */
     height: 100vh;
-    /* background-color: aquamarine; */
     background: linear-gradient(135deg,#667EEA,#6B8DD6,#8E37D7);
 }
 
@@ -14,6 +13,7 @@ h1 {
 background: linear-gradient(to left, #00FF00 0%, #00FFFF 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
+
 }
 .container {
     display: flex;
