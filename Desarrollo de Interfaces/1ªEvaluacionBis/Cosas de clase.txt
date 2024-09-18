@@ -71,3 +71,12 @@
 -Con addEventListener es CLICK siempre.
 -Con el input el Onclick al lado del type.
 
+ ----------
+|18/09/2024|
+ ----------
+-En package.json creamos la nueva dependencia de deploy.
+	"predeploy": "npm run build",
+    	"deploy": "gh-pages -d build",
+-Añadimos las dos de arriba y en la consola hacemos el npm install gh-pages.
+-Vamos a deployar el proyecto en npm install gh-pages -d build
+

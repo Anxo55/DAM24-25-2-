@@ -9,14 +9,18 @@ const synth = new Tone.Synth().toDestination();
 // Habia que aplicar el ALL sino, no pilla todos los key, al poner el ALL coger todo..
 let keys = document.querySelectorAll('.key')
 
-for(let key of keys) {
+for (let key of keys) {
     let noteToPlay = key.getAttribute('data-note')
-    key.addEventListener('click', () => playNote(noteToPlay))
-    // mousedown , para que siga sonando la tecla.
-
+    key.addEventListener('mousedown', () => playNote(noteToPlay)) //mousedown se cambió por el click
+    key.addEventListener('mouseup', () => stopNote())
+    key.addEventListener('mouseleave', () => stopNote())
 }
 
 
-function playNote(note) {    
-    synth.triggerAttackRelease(note, "8n");
+function playNote(note) {
+    synth.triggerAttackRelease(note);
+}
+
+function stopNote() {
+    synth.triggerRelease();
 }
