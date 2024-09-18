@@ -35,4 +35,12 @@
 -Subidos los pdfs de manejo de excepciones, todo subido en las carpetas para Github.
 -Estamos viendo un ejemplo con numeros al pasar caracteres.
 
+ ----------
+|18/09/2024|
+ ----------
+-Nos mandó un ejercicio de repaso.
+-Hacemos el ejercicio de la cuenta, creando dos excepciones y creando cada metodo.
+-Proxima clase ya empezamos con ficheros.
+-Subido los manejos de ficheros al classroom y empezar a verlo de repaso.
+
 
