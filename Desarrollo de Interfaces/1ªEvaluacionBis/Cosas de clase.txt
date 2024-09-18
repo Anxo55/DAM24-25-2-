@@ -78,5 +78,12 @@
 	"predeploy": "npm run build",
     	"deploy": "gh-pages -d build",
 -Añadimos las dos de arriba y en la consola hacemos el npm install gh-pages.
--Vamos a deployar el proyecto en npm install gh-pages -d build
+-Vamos a deployar el proyecto en npm install gh-pages -d build.
+Herramientas para hacer testeos(vitest o jest).
+-Usaremos jest.
+-Hay que crear un fichero nuevo para hacer un testeo.
+-Siempre se crea nombre archio.test.lenguaje que usemos.
+-Al final descargamos el vitest, que tambien lo tenemos que instalar y para arrancarlo es (npm run test).
+-Tenemos que descargar los cd para que suene cada tecla.
+-Terminar de colocar los sonidos y subirlo a github, con la version final.
 

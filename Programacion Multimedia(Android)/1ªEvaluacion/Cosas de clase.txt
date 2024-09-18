@@ -20,4 +20,17 @@
 -Dijo que habia un parametro que habia que eliminar en el metodo.
 -Probar a copiar todo en la carpeta de clase para pasar los ejercicios.
 
+ ----------
+|18/09/2024|
+ ----------
+-Siempre al arrancar nuestro proyecto hay que hacer un build que suele tardar.
+-Despues hacemos un run que tarda menos tras hacer ek build.
+-Vamos a hacer la misma practica pero sin hacerla desde 0.
+-Con la barra en azul es en kotlin y en verde en java.
+-Creandolo como lo hicimos ya tenia por defecto el Hello World.
+-Ver algo de kotlin que tambien se puede usar en Android Studio.
+-Vimos tambien el buil.gradle, el modulo, abajo del proyecto.
+-Tuvimos un error en el segun TextView, por que tienes que colocarlo bien en su posicion, con cada etiqueta.
+-Corregido y arrancar con exito el programa.
+
 

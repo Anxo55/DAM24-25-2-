@@ -1,3 +1,20 @@
+# Aplicacion web de piano
+Web de practicas que permite tocar el piano con raton y teclado
+
+## Tecnologias
+- npm
+- vite
+- vitest
+
+## dependencias
+- tonejs
+- gh-pages
+- 
+## deploy
+[pulsa para ver la app](https://github.com/)
+
+
+
 Descarga las dependencias del proyecto
 ```
 npm install
@@ -21,10 +38,17 @@ npm install xxx
 ```
 
 Deploy a Github
-
+```
 npm run deploy
 ```
 
+Con este comando probamos los testeos
+```
+npm run test
+
+```
+
+## Tareas
 Quiero una pagina web que permita tocar el piano.
 Tendra tanto teclas blancas como negras
 Sonará como un piano de verdad.
@@ -33,10 +57,10 @@ Se podrá tocar tambien con el teclado del ordenador.
 - [x] mostar una web con las teclas blancas sin sonido
 - [x] permitir que el usuario pulse en las teclas y suene
 - [x] añadir las teclas negras
-- [] permitir que el usuario toque el piano con las teclas del ordenador
-- [] incorporar sonidos reales
-- [] refactorizar
-- [] testear
+- [x] permitir que el usuario toque el piano con las teclas del ordenador
+- [x] incorporar sonidos reales
+- [x] refactorizar
+- [x] testear
 - [x] deployer
 
 
