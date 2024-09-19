@@ -87,3 +87,34 @@ Herramientas para hacer testeos(vitest o jest).
 -Tenemos que descargar los cd para que suene cada tecla.
 -Terminar de colocar los sonidos y subirlo a github, con la version final.
 
+ ----------
+|19/09/2024|
+ ----------
+-Terminamos la web de piano, pero nos falta colocar como ayer los sonidos para que suenen al tocar las teclas.
+-Vamos a voler a usar fichaTu.
+-Firebase, te da todo el backend hecho.
+-Hasta ahora lo que vimos fue del frontend.
+
+-Ahora el backend lo podemos desarollar en cualquier lenguaje.+
+-[ (javaScript/typeScript-nodeJs), (Java,Kotlin-SpringBootg), (python-flash), (C#-.Net) ]
+-Tambien se incluye la autenticacion, Bases de datos.
+-Vamos a crear un pequeño backend con JavaScript, y vamos a ver si nos conectamos al frontend con el json.
+
+-Al entrar en la ruta de la carpeta desde el cmd hacemos un npm init.
+-Usando node index.js, nos muestra el console.log, pero la idea es crear en el package.json.
+-Si se llama start, usaremos entonces el (npm run start).
+-npm install express.
+-Importamos el express.
+-Tenemos que añadir en el package.json el type:"module".
+-Accedemos con localhost3000/.
+-No lo podemos desplegar donde nos de la gana.
+-Seria esencial aprender (AWS).
+-Subimos la prueba a github a un repositorio.
+-Vamos a hacer una pagina web desde el repositorio de Angel.
+-Entramos en el classroom de Interfaces.
+-Tenemos que hacer un fork.
+-Siempre que vayamos a trabajar en el proyecto de otro lo tenemos que forkear.
+-Crearemos una nueva rama y nos situaremos en ella (git checkout -b xxx(anxo, por ejemplo)).
+-Primero hacemo el git a nuestro repo compartido.
+-Tras subirlo a nuestro repo, ya nos habilita para hacer la PR.
+

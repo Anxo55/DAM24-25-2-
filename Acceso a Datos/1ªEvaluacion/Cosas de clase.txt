@@ -43,4 +43,9 @@
 -Proxima clase ya empezamos con ficheros.
 -Subido los manejos de ficheros al classroom y empezar a verlo de repaso.
 
+ ----------
+|19/09/2024|
+ ----------
+-Vamos a corregir la clase de Cuenta.
+-Revisar de nuevo en casa y hacerlo de nuevo para practicar con las excepciones.
 

@@ -3,6 +3,8 @@ import './style.css'
 // Para usar toner tenemos que importarlo.
 import * as Tone from "tone";
 
+console.log('Hola chicos y chicas')
+
 // const synth = new Tone.Synth().toDestination();
 const synth = new Tone.Sampler({
     urls: {
@@ -13,7 +15,7 @@ const synth = new Tone.Sampler({
                 
     },
     release: 1,
-    baseUrl: "https://tonejs.github.io/audio/salamander/",
+    baseUrl: "",
 }).toDestination();
 
 // en vez de int como en java usamos el let.
@@ -34,6 +36,8 @@ document.addEventListener('keyrelease', stopNote)
 function ctrlTeclado(event) {
     let keyName = event.key
     let note = getNoteFromKey(keyName)
+    let key = document.querySelector('[data-note='+note+']')
+    key && key.classList.add('pressed')
     playNote(note)
 }
 
@@ -42,6 +46,11 @@ function playNote(note) {
     synth.triggerAttackRelease(note);
 }
 
-function stopNote() {
+function stopNote(event) {
+    let keyName = event.key
+    let note = getNoteFromKey(keyName)
+    let key = document.querySelector('[data-note='+note+']')
+    key && key.classList.remove('pressed')
+    
     synth.triggerRelease();
 }

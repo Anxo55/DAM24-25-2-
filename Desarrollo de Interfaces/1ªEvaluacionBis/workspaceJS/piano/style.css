@@ -53,3 +53,7 @@ background: linear-gradient(to left, #00FF00 0%, #00FFFF 100%);
 .key:active {
     background-color: lightgray;
 }
+
+.pressed {
+    background-color: lightgray;
+}
