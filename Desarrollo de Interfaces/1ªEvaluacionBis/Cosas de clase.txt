@@ -117,4 +117,12 @@ Herramientas para hacer testeos(vitest o jest).
 -Crearemos una nueva rama y nos situaremos en ella (git checkout -b xxx(anxo, por ejemplo)).
 -Primero hacemo el git a nuestro repo compartido.
 -Tras subirlo a nuestro repo, ya nos habilita para hacer la PR.
+-Para actualizar los PR que se hayan aceptado hacemos lo siguiente: 
+
+-Listar los repositorios(git remote -v).
+-git remote add upstream https://github.com/Anxo55/weblibre.git
+-La URL de arriba es con el nombre de angel.
+
+-git pull upstream master.
+-Accedemos al Github de angel usando git checkout master.
 

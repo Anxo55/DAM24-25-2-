@@ -26,3 +26,21 @@
 -Tenemos que subir al classroom un recorte de ejecucion de main de InetAddress.
 -El jueves damos URL, aprender a como instanciar.
 
+ ----------
+|19/09/2024|
+ ----------
+-Clase URL.
+-Esta clase si se instancia.
+-Metodos de la clase de URL.
+-Probamos el primer ejemplo con las rutas a oracle.
+-Hicimos dos ejemplos del pdf subido.
+-En el segundo nos muestra el HTML de la pagina web pasada en  la URL.
+-Aunque ejecutes no tienes acceso directo.
+-Probamos con Cebem y con el Faro de Vigo.
+-Nos manda una tarea, done usamos el segundo ejemplo, con un recurso.
+-La tarea era subir un captura de lo que muestra por consola con dicho enlace a otro pagina
+ en este caso lo hice con la pagina web de as Deportivo.
+-Tambien usamos un FileWriter para crear un archivo de texto.
+-Creamos el Ejemplo1Conexion.
+-Apache, mysql, php.
+
