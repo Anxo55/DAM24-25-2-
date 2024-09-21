@@ -10,7 +10,10 @@
 -Si hay tiempo podemos ver patrones de diseño.
 
  ----------
-|13/09/2024|
+|20/09/2024|
  ----------
-
+-Vamos a empezar con Gestion de Contenedores(Docker).
+-Contenedor.
+-Descargamos docker.
+-Tenemos que cambiar la bios, buscarlo en internet.
 

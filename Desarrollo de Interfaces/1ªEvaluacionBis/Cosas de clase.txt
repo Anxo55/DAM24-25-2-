@@ -126,3 +126,18 @@ Herramientas para hacer testeos(vitest o jest).
 -git pull upstream master.
 -Accedemos al Github de angel usando git checkout master.
 
+ ----------
+|20/09/2024|
+ ----------
+-Vamos a empezar a aprender JavaScript.
+-Para ejecutar los programas de JavaScript usamos node .\(nombre del archivo).
+-Declaracion de variables.
+-No usemos nunca var, siempre usemos let.
+-Vamos a ver poco let, y vamos a ver mucho const, por que es mas eficiente.
+-Ver bien los operadores logicos, sobre todo en los iguales dobles y triples por la diferencia de cada uno.
+-Tambien tenemos dos (!=), que tambien se usa el (!==).
+-!, operador logico NOT.
+-Por ultimo vimos el problema con el ; en algunos programas.-
+-El proximo dia empezaremos con funciones, objetos.
+-JavaScript es asincrono.
+

@@ -49,3 +49,10 @@
 -Vamos a corregir la clase de Cuenta.
 -Revisar de nuevo en casa y hacerlo de nuevo para practicar con las excepciones.
 
+ ----------
+|20/09/2024|
+ ----------
+-Nos pusimos a ver la clase file.
+-JFileChosser, que al ejecutar nos abre todas las carpetas que tienen nuestro ordenador.
+
+

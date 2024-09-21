@@ -33,4 +33,15 @@
 -Tuvimos un error en el segun TextView, por que tienes que colocarlo bien en su posicion, con cada etiqueta.
 -Corregido y arrancar con exito el programa.
 
+ ----------
+|20/09/2024|
+ ----------
+-Vamos a crear el tercer hola mundo.
+-Descargado el capitulo1.
+-Creamos el proyecto, MiPrimerBoton.
+-Le colocamos dos textos y un botón.
+-Nos enseña del onclick aunque ya no se utilice.
+-Queremos que el boton nos cierre la aplicacion.
+-No mata android, unicamente nos pone en segundo plano el programa.
+-Con finishAndRemove task ya lo cierra sin que aparezca en segundo plano.
 

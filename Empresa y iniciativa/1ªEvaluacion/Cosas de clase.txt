@@ -4,4 +4,9 @@
 -Tenemos que crear nuestra propia empresa.
 -Va a subir las fechas de entrega de los trabajos y de las presentaciones.
 
+ ----------
+|20/09/2024|
+ ----------
+-El Business Model canvas se compone de 9 bloques.
+
 
