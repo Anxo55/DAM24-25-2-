@@ -7,6 +7,7 @@
  ----------
 |13/09/2024|
  ----------
+
 -Manejo de ficheros.
 -La informacion dentro de un fichero de datos se guardan por campos y registros.
 -Con void no tenia retorno.
@@ -59,4 +60,19 @@
 |23/09/2024|
  ----------
 -Vamos a seguir con manejo de ficheros, viendo ejemplos de clases de java.
+-Trabajo con archivos y directorios: clase File.
+-Dicha clase dispone de varios constructores.
+-Ver como creando un txt, poder abrirlo desde el programa.
+-Apertura, procesado y Cierre.
+-Esto nos sirve para trabajar con ficheros.
+-Escritura de archivos de texto.
+-Programa Principal2 solucionado, que no mostraba la ruta del usuario por consola.
+-Permisos sobre ficheros.
+-Apertura y cierre de un fichero.
+-Lectura de datos de un fichero.
+-Siempre es: 
+	*File fichero
+	*FileReader fichero
+	*BufferReader fichero
+-Nos sube la clase y ya la repasamos con paciencia.
 
