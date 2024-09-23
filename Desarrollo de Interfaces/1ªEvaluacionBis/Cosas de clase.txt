@@ -137,7 +137,16 @@ Herramientas para hacer testeos(vitest o jest).
 -Ver bien los operadores logicos, sobre todo en los iguales dobles y triples por la diferencia de cada uno.
 -Tambien tenemos dos (!=), que tambien se usa el (!==).
 -!, operador logico NOT.
--Por ultimo vimos el problema con el ; en algunos programas.-
+-Por ultimo vimos el problema con el ; en algunos programas.
 -El proximo dia empezaremos con funciones, objetos.
 -JavaScript es asincrono.
+
+ ----------
+|23/09/2024|
+ ----------
+-Hoy nos ensela la plataforma donde podemos hacer ejercicios de practica.
+-La pagina es: aprendetu.vercel.app
+-Vamos a empezar con los objetos.
+-Vemos tambien funciones y lo que pasa al tener parametros y tener otro mensaje al llamar a la funcion.
+-Funciones anonimas.
 
