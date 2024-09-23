@@ -1,0 +1,57 @@
+ ----------
+|13/09/2024|
+ ----------
+-Nos unimos al classroom y nos sube informacion de la que se va a basar el curso.
+-Nos sube el indice para ver lo que vamos a dar durante el curso.
+-Por curiosidad buscamos las redes token ring.
+-Una de las bases de datos que se usará en android será SQLite, Firebase.
+-Qemu es un emulador.
+
+ ----------
+|16/09/2024|
+ ----------
+-Vamos a instalar Android Studio, la ultima versión.
+-Empezamos con el capiulo 1.
+-Creamos el primer paquete llamado HolaMundo.
+-Vemos si tenemos todo bien instalado.
+-Al final creamos el primer proyecto Hola Mundo, donde creamos la primera clase Java MainActivity.
+-Crear en res la carpeta layout, y opcional la del menú.
+-Corregimos los problemas en el poryecto de HolaMundo y lo ejecutamos y se lanza bien.
+-Dijo que habia un parametro que habia que eliminar en el metodo.
+-Probar a copiar todo en la carpeta de clase para pasar los ejercicios.
+
+ ----------
+|18/09/2024|
+ ----------
+-Siempre al arrancar nuestro proyecto hay que hacer un build que suele tardar.
+-Despues hacemos un run que tarda menos tras hacer ek build.
+-Vamos a hacer la misma practica pero sin hacerla desde 0.
+-Con la barra en azul es en kotlin y en verde en java.
+-Creandolo como lo hicimos ya tenia por defecto el Hello World.
+-Ver algo de kotlin que tambien se puede usar en Android Studio.
+-Vimos tambien el buil.gradle, el modulo, abajo del proyecto.
+-Tuvimos un error en el segun TextView, por que tienes que colocarlo bien en su posicion, con cada etiqueta.
+-Corregido y arrancar con exito el programa.
+
+ ----------
+|20/09/2024|
+ ----------
+-Vamos a crear el tercer hola mundo.
+-Descargado el capitulo1.
+-Creamos el proyecto, MiPrimerBoton.
+-Le colocamos dos textos y un botón.
+-Nos enseña del onclick aunque ya no se utilice.
+-Queremos que el boton nos cierre la aplicacion.
+-No mata android, unicamente nos pone en segundo plano el programa.
+-Con finishAndRemove task ya lo cierra sin que aparezca en segundo plano.
+
+ ----------
+|23/09/2024|
+ ----------
+-Nuevo proyecto, 004 settear texto.
+-v lo denomina como vista.
+-Subido como material lo de las capturas de pantallas en android.
+-Vamos a hacer un primer ejercicio, va a ser de numeros primos.
+-Intentar en casa instalar geminis en android studio.
+-Subido al classroom los metodos de la clase de primos.
+

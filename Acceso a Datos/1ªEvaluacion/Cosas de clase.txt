@@ -55,4 +55,8 @@
 -Nos pusimos a ver la clase file.
 -JFileChosser, que al ejecutar nos abre todas las carpetas que tienen nuestro ordenador.
 
+ ----------
+|23/09/2024|
+ ----------
+-Vamos a seguir con manejo de ficheros, viendo ejemplos de clases de java.
 
