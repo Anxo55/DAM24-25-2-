@@ -1,4 +1,4 @@
-package Practica.Ejemplo1URL;
+package Ejemplo1URL;
 
 import java.net.MalformedURLException;
 import java.net.URL;

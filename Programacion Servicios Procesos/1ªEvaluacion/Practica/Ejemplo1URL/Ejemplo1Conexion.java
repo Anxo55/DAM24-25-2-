@@ -1,5 +1,4 @@
-package Practica.Ejemplo1URL;
-
+package Ejemplo1URL;
 import java.net.*;
 import java.io.*;
 

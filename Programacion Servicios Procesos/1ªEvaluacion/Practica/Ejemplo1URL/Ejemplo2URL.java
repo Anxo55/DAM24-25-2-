@@ -1,4 +1,5 @@
-package Practica.Ejemplo1URL;
+// package Practica.Ejemplo1URL;
+package Ejemplo1URL;
 
 import java.io.BufferedReader;
 import java.io.FileWriter;

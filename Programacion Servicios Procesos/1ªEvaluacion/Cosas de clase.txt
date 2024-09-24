@@ -44,3 +44,12 @@
 -Creamos el Ejemplo1Conexion.
 -Apache, mysql, php.
 
+ ----------
+|23/09/2024|
+ ----------
+-Arrancamos el apache para algun ejemplo.
+-Creamos una carpeta en xamp de url para el index.html.
+-Tener que ver el error por el que no pasa.
+-Siempre al actualizar hay que hacer un reload(reiniciar).
+-Estamos con el tercer ejemplo, en el cual el php va.
+
