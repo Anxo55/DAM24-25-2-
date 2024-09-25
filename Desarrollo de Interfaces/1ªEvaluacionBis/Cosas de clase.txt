@@ -150,3 +150,24 @@ Herramientas para hacer testeos(vitest o jest).
 -Vemos tambien funciones y lo que pasa al tener parametros y tener otro mensaje al llamar a la funcion.
 -Funciones anonimas.
 
+ ----------
+|24/09/2024|
+ ----------
+-Vamos a ver los parametros, por valor y referencia.
+-En el parametro le pasamos un(CALLBACK).
+-Se usa muchisimo los callback.
+-No son lo mismo a la hora de apuntar numeros que objetos.
+-FuncionesComoClases.
+-Typeof y instanceof.
+-Sincronismo y el asincronismo.
+
+ ----------
+|25/09/2024|
+ ----------
+-Nos pusimos a ver bien los asincronismos.
+-Vamos a usar random user.
+-Usaremos fetch como libreria.
+-Con el fetch podemos usar(then, catch, finally).
+-Mirar siempre como está estructurada la API, para al usar el json como usarla con el dataJson.
+-Vamos con estructuras de control.
+

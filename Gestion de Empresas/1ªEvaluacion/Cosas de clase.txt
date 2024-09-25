@@ -17,3 +17,27 @@
 -Descargamos docker.
 -Tenemos que cambiar la bios, buscarlo en internet.
 
+ ----------
+|25/09/2024|
+ ----------
+-Conseguimos instlar docker.
+-Vamos a empezar a ver comandos de docker.
+-Docker serch xxx.
+-Docker pull(Descargar imagen), ejemplo docke pull hello-world.
+-Tenemos ahora mismo la imagen pero no un contenedor.
+-Con docker images nos dice las imagenes que tenemos.
+-Usamos tambien la imagen de ubuntu con docker pull ubuntu.
+-Para borrar imagenes docker rmi +id.
+-Se arranca un contenedor con docker run, ejemplo: docker run hello-world.
+-Con el comando docker ps, vemos los contenedores que estan funcionando.
+-Para ver los contenedores que tengo, pero están apagados es: docker ps -a.
+-Hacemos un docker pull debian.
+-Le vamos a pedir una shell y poder interactuar con el(docker run -it debian /bin/bash).
+-Podemos cerrar el contenedor con exit o ctrl+d, o (ctrl p q, con el que sigue funcionando).
+-Docker start +id.
+-Docker stop xxx.
+-Docker kill xxx.
+-Docker attach, para volver a recoger el contenedor arrancado en segundo plano.
+-Docker rm es para cargarse contenedores.
+-En docker hub entramos para descargarnos linux mint.
+

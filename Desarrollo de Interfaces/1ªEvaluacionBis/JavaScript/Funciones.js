@@ -12,12 +12,28 @@ function eleva(a) {
     console.log(a**2)
 }
 
-// Unicamente va a ejecutar la utima funcion pasada
-eleva(2, 3) //=> 8
-eleva(2)    //=> 4
-
-let divide = function(numero1, numero2)  {
-    return numero1/numero2
+let eleva_2 = function (numero1, numero2)  {
+    return numero1**2
 }
 
-divide(6, 2)
+let eleva_3 = (numero1) => {
+    return numero1**2
+}
+
+let eleva_4 = (numero1) => numero1**2
+
+console.log(eleva(3))
+console.log(eleva_2(3))
+console.log(eleva_3(3))
+console.log(eleva_4(3))
+
+function saluda() {
+    console.log('Hola')
+    // return undefined
+}
+
+function divide(numero1=1) {
+    return numero1/2
+}
+
+console.log(divide())

@@ -55,3 +55,28 @@
 -Intentar en casa instalar geminis en android studio.
 -Subido al classroom los metodos de la clase de primos.
 
+ ----------
+|24/09/2024|
+ ----------
+-Seguimos revisando la clase de los primos.
+-Tenemos que recordar declarar los ids para poder hacer los eventos.
+-Hubo que hacer el metodo de SextoPrimo.
+-No implementar geminis en android.
+-Vamos a empezar con un nuevo proyecto.
+-Esta ve la hacemos con basic views.
+-Nos sale un propio menu en este proyecto.
+-Viendo el fab(boton de acciones flotantes).
+-Va a entrar lo de navegacion en android.
+-Tenemos una nueva practica para unir las 3 clases.
+-Tengo que terminar que pase a la tercera.
+-Hecho pasarlo a la tercera, volver a verlo bien, por que hay que declarar bien
+ los id en todo y en cada clase saber pasarlo a la siguiente.
+
+ ----------
+|25/09/2024|
+ ----------
+-Va a hacer el proyecto de las 3 pestañas.
+-En la carpeta values tenemos el strings.xml
+-Añadimos un avion al lado de settings.
+-Tenemos que ver el codigo para corregirlo.
+

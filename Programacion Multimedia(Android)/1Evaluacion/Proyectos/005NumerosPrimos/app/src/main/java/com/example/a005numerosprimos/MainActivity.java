@@ -37,11 +37,17 @@ public class MainActivity extends AppCompatActivity {
         String input = editText.getText().toString();
             if (!input.isEmpty()) {
                 int numero = Integer.parseInt(input);
+                Toast.makeText(MainActivity.this, "Verificando si " + numero + " es primo", Toast.LENGTH_SHORT).show();
+
                 if (esPrimo(numero)) {
                     textView.setText(numero + " es un número primo.");
                 } else {
                     textView.setText(numero + " no es un número primo.");
                 }
+
+                int sextoPrimo = encontrarSextoPrimo();
+                Toast.makeText(MainActivity.this, "El sexto número primo es: " + sextoPrimo, Toast.LENGTH_LONG).show();
+
             } else {
                 Toast.makeText(MainActivity.this, "Introduce un número", Toast.LENGTH_SHORT).show();
             }
@@ -57,4 +63,17 @@ public class MainActivity extends AppCompatActivity {
         }
         return true;
     }
+
+    private int encontrarSextoPrimo() {
+        int contador = 0;
+        int numero = 2;
+        while (contador < 6) {
+            if(esPrimo(numero)) {
+                contador++;
+            }
+            numero++;
+        }
+        return numero -1;
+    }
+
 }

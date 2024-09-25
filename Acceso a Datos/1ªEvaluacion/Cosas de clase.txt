@@ -76,3 +76,25 @@
 	*BufferReader fichero
 -Nos sube la clase y ya la repasamos con paciencia.
 
+ ----------
+|24/09/2024|
+ ----------
+-Copiamos la clase del classroom.
+-Fue un ejemplo de como acceder al fichero, y otro al fichero de texto
+-Y vamos a seguir con el BufferReader.
+-Escritura de datos de un fichero.
+-Ya actualizado el ejercicio de Principal.
+-Subido al classroom el Restaurante.csv.
+-Tenemos ejercicios de repaso.
+-El ejercicio dos usarlo con FileChooser.
+-Seguir con las practicas despues.
+-Revisar bien los manejos de ficheros, y estas clase que estamos haciendo.
+
+ ----------
+|25/09/2024|
+ ----------
+-Nos pusimos a hacer los ejercicios de repaso.
+-Ejercicios hechos, seguir repasandolos y repetirlos sobre todo.
+-Va a subir su boletin de ficheros.
+-Lo descargamos y nos ponemos a trabajar con el, donde tenemos que hacer con lo suyo el ejercicio4.
+

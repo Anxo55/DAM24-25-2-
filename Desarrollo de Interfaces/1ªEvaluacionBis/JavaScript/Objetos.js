@@ -21,6 +21,6 @@ persona.peso = 90
 delete persona.casado
 
 console.log(persona)
-
 persona.saludar()
+
 
