@@ -171,3 +171,21 @@ Herramientas para hacer testeos(vitest o jest).
 -Mirar siempre como está estructurada la API, para al usar el json como usarla con el dataJson.
 -Vamos con estructuras de control.
 
+ ----------
+|26/09/2024|
+ ----------
+-Nos pusimos a ver los arrays, que son mas faciles que en el propio java.
+-El push se usa para añadir nuevos elementos al Array ya creado.
+-Usando pop te elimina el ultimo elemento y te lo da.
+-Con unshift, se añade un nuevo elemento pero al principio del array.
+-Con shift, eliminamos el primer elemento y te lo devuelve.
+-Con el concat para unir los dos arrays.
+-Viendo el forOf y el forIn, el forIn se tendría que manejar por que sino muestra variables numericas por consola.
+-Vemos los Sets, no son los que dabamos de getters y setters.
+-Con el has en los Sets, nos dice si esta dicho valor, con true o false.
+-Usaremos muchos arrays y pocos Sets.
+-Ahora vemos los mapas (clave, valor).
+-Entender bien lo de paso por valor y paso por referencia(en este caso de la clase arguments tambien).
+-No es lo mismo trabajar con numeros, String y booleanos que con Objetos, verlo muy bien.
+
+

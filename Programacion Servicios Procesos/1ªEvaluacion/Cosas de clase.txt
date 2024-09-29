@@ -53,3 +53,18 @@
 -Siempre al actualizar hay que hacer un reload(reiniciar).
 -Estamos con el tercer ejemplo, en el cual el php va.
 
+ ----------
+|26/09/2024|
+ ----------
+-Que son los sockets.
+-Conexion entre servidor y cliente.
+-Tipos de sockets(Orientados a conexion).
+-Clases para sockets TCP.
+-Creamos la carpeta TCPintro, hacemos la primera clase Server1.
+-Hay que echarle un ojo a la clase socket de la pagina 18.
+-Ver tanto los constructores, como los metodos.
+-Al hacer el Cliente1, tenemos que ejecutar el Server1 para que esté arrancado y despues ejecutar ya el cliente1.
+-Seria bueno conectarse a otro servidor siendo clientes nosotros.
+-Intentar conectarse desde este ordenador al de casa.
+-Hay que ver para desactivar
+

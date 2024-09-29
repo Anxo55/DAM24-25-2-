@@ -98,3 +98,14 @@
 -Va a subir su boletin de ficheros.
 -Lo descargamos y nos ponemos a trabajar con el, donde tenemos que hacer con lo suyo el ejercicio4.
 
+ ----------
+|26/09/2024|
+ ----------
+-Terminamos este boletin con el ejercicio5 de manejo de ficheros.
+-Copiamos la clase de GestionFicheros que nos subió al classroom.
+-En eclipse windows builder, en caso de que no funcione en visual, despues accedemos a other.
+-Crear un JFrame, creamos la carpeta y la primera clase.
+-Trabajaremos en eclipse para colocar bien las cosas.
+-Vamos a descargar la version gratis de intellij.
+-Intentar hacer que cuando pulsemos el boton en vez de la ruta nos ponga la tabla del csv que tenemos.
+

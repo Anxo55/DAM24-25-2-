@@ -41,3 +41,23 @@
 -Docker rm es para cargarse contenedores.
 -En docker hub entramos para descargarnos linux mint.
 
+ ----------
+|26/09/2024|
+ ----------
+-Docker start para volver a arrancar el servidor.
+-Docker exec -it +id +/bin/bash.
+-Asi tenemos el control de este contenedor de nuevo.
+-Recordar que con nano.txt, accedemos a dicho fichero.
+-Para acceder al linux-mint abierto usamos: docker exec -it b041f3 /bin/bash.
+-Y tambien instalar el nano para acceder como puse anteriormente.
+-Docker pull nginx.
+-Docker run -dp 4000:80 nginx (la p para darle un puerto como el 4000).
+-El servidor está arrancado(encendido) y a la escucha.
+-docker stop para pararlo, docker start para arrancarlo.
+-Para conectarnos y mandar comandos, y tener una consola le mandamos: docker exec -it +id /bin/bash.
+-Entramos en la ruta expecifica para acceder al html y isntalamos nano, para poder editar el codigo.
+-Creamos una carpeta en c: llamada web, para poner lo de docker en dicha carpeta.
+-Vamos a crear otro servidor en el puerto 4001, y el volumen web/usr/share/nginx/html nginx que lo ponemos con -v 
+ lo pondremos asi: (docker run -dp 4001:80 -v c:\ nginx).
+
+
