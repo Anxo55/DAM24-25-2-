@@ -1,0 +1,24 @@
+{
+    "nombre": "Pepe",
+    "edad": 26,
+    "altura": 1.80,
+    "casado": true,
+    "novia": null,
+    "hobies": [ "leer", "gym" ],
+    "direccion": {
+        "calle": "Av. Paseo de la Castellana",
+        "piso": 33,
+        "letra": null
+    },
+    "hijos": [ 
+    {
+        "nombre": "Luis",
+        "edad": 12
+    },
+    {
+        "nombre": "Lucia",
+        "edad": 10
+    }
+ ]
+    
+}

@@ -80,3 +80,32 @@
 -Añadimos un avion al lado de settings.
 -Tenemos que ver el codigo para corregirlo.
 
+ ----------
+|30/09/2024|
+ ----------
+-Creamos el proyecto 007CicloDeVida de una actividad.
+-Nos subió el enlace a la pagina web para ver el contenido, revisarla por los metodos.
+-Concepto y ciclo de vida.
+-Ciclo de vida de una actividad(Inexistente, Detenida, Pausada, En marcha).
+-onCreate(), onStart(), onResume(), onPause(), onStop(), onDestroy().
+-Ejercicio: Cuando pase por los distintos estados.
+-Hacemos otro proyecto.
+-Modelo vista controlador en java.
+-Revisar por que fallan los emuladores al ejecutarse.
+-En el proyecto 8: AÑADIR un nuevo fragmento a Bottom Navigation.
+-Ver el proyecto 007 y revisar tambien para hacer el siguiente, pero ver por que no arranca el emulador.
+
+ ----------
+|01/10/2024|
+ ----------
+-Tuvimos que usar un telefono con menos avance por que sino iba lento el ordenador.
+-Le pedimos a Luis el proyecto 007 de ciclo de vida y tenemos que hacer el 008 para subirlo al classroom.
+-Hecho bien el proyecto 007 del ciclo de vida.
+-Ahora hacemos el proyecto 008 para aladir un nuevo fragmento a Bottom Navigation.
+-El proximo proyecto será usando una plantilla de las de responsive.
+-Creamos una tablet.
+-Nos subió los avatares al classroom.
+-Botom, drawer, que los puso en los examenes del año pasado.
+-Image view sirve para colocar imagenes, pero en este caso son avatares.
+-Y al lado podemos colocar texto tambien.
+

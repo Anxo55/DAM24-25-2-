@@ -68,3 +68,15 @@
 -Intentar conectarse desde este ordenador al de casa.
 -Hay que ver para desactivar
 
+ ----------
+|30/09/2024|
+ ----------
+-Gestion de Sockets TCP.
+-Creamos la clase Server2 y Cliente2.
+-Copiamos algunos datos de las primeras clases y vemos desde el pdf para ir añadiendo.
+-Vemos coomo mandar un mensaje al cliente.
+-Funciona bien el programa.
+-Si nos vamos a conectar a otro, siemore arranca el otro el server, y nosotros nos conectamos a su direccion.
+-Hacer una variación, haciendolo en el ejercicio3.
+-Conseguimos mandar el mensaje del cliente al servidor y que salga en mayusculas con el toUpperCase.
+

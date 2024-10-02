@@ -109,3 +109,25 @@
 -Vamos a descargar la version gratis de intellij.
 -Intentar hacer que cuando pulsemos el boton en vez de la ruta nos ponga la tabla del csv que tenemos.
 
+ ----------
+|30/09/2024|
+ ----------
+-Vamos a ver ficheros binarios.
+-Metodos para escritura.
+-Estamos con la clase de ejemplo, donde copiamos el GestionFicheros de otro paquete y el CSVFileFilter.
+-Lo que queremos es copiar lo que tenemos en la clase principal del paquete de ArchivosBinarios.
+-Pediremos al usuario: nombre, edad y despues mostrarlo por consola.
+-Tenemos todo el paquete bien pasado.
+-Hacemos para pedir al usuario un numero total de personas a añadir con nombre y edad.
+
+ ----------
+|01/10/2024|
+ ----------
+-Estamos viendo el JFrame y el swing junto con el GridLayout, tenemos que ver que en el editor funcione la descarga
+ del windowBuilder.
+-Trabajaremos en eclipse ya que se consiguió instalar el windowsBuilder, que hay que actualizar eclipse.
+-Tenemos que hacer el ejercicio de Ficheros Binarios.
+-Hacemos el primer ejercicio donde pedimos el nombre y edad y lo guardamos en X archivo de texto de nuestra unidad.
+-Ahora nos ponemos con el ejercicios de ficheros binarios, donde pasaremos la ruta donde se guardaran
+ los numeros randoms.
+

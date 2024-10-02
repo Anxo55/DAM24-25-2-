@@ -188,4 +188,32 @@ Herramientas para hacer testeos(vitest o jest).
 -Entender bien lo de paso por valor y paso por referencia(en este caso de la clase arguments tambien).
 -No es lo mismo trabajar con numeros, String y booleanos que con Objetos, verlo muy bien.
 
+ ----------
+|30/09/2024|
+ ----------
+-Hoy ya estamos viendo los Argumentos.
+-arguments es un array.
+-Operador rest(...numeros).
+-Archivo Number.
+-Hacemos tambien el archivo date para ver como trabajamos con fechas.
+-Descargamos la libreria Day.js, para jugar con fechas en JavaScript.
+-La mas famosa es momentJs, pero es muy pesado.
+-Proponen cosas como Day.js.
+-Libreria Math, igual que java.
+-El Math.sqrt era para sacar la raiz cuadrada de cualquier valor. 
+
+ ----------
+|01/10/2024|
+ ----------
+-Intentaremos ver json.
+-Creamos el fichero datos.json
+-Json sirve para guardar información de forma estructurada.
+-Json va muy bien con C#, python, JavaScript.
+-Por ejemplo, si creamos una persona y tiene hijos, ponemos el atributo de hijos
+  y entre corchetes y llaves los añadimos.
+-Creamos el fichero de pokemons para llamar a una api.
+-Con el fetch llamamos a la api.
+-En el backend nos sale en la consola al inspeccionar.
+-Api en vanilla para mostrar las imagenes de los pokemons de frontal.
+-Podemos llamar a la api con fetch o coon async.
 
