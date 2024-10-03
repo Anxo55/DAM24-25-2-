@@ -60,4 +60,26 @@
 -Vamos a crear otro servidor en el puerto 4001, y el volumen web/usr/share/nginx/html nginx que lo ponemos con -v 
  lo pondremos asi: (docker run -dp 4001:80 -v c:\ nginx).
 
+ ----------
+|03/10/2024|
+ ----------
+-Eliminamos un par de entry points.
+-Darle un nombre personalizado al servidor. 
+-Docker run --name miServer -v +ruta_de_mi_ordenador + ruta_nginx -p 4002:80 -d nginx.
+-Asi podemos trabajar directamente con el nombre del servidor.
+-Montar un servidor de bases de datos.
+-Docker search mysql para ver que hay para descargar.
+-docker pull mysql:5.7 esta sería la version de mysql que descargamos.
+-Por si acaso no pondremos el puerto 3306 (puerto de mysql).
+-docker run --name mysql -d mysql 3307:3306 -e MYSQL_ROOT_PASSWORD=Ad1234 mysql:5.7
+ si no le ponemos al final la version, nos arranca la version mas reciente.
+-docker logs mysql, con este comando podemos ver si dijo algo raro mysql.
+-Como trabajar ahora con mysql, con un cliente de bases de datos, podemos usar un cliente como(mysqlWorkbench).
+-Otra forma de conectarnos es con: un lenguaje escrito en algún lenguaje(PHP, Python, Java, JavaScript).
+-Y otra forma que es la que vamos a ver es: CLI.
+-Nos conectamos haciendo docker exec -it mysqld(Nuestro contenedor) mysql -uroot -p.
+-Y estamos dentro de CLI de mysql.
+-Para salir usamos exit;
+-Para ver las bases de datos que tenemos es: show database.
+-Con root no se deberia trabajar, por que es control absoluto.
 

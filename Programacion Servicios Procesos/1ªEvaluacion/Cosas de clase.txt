@@ -80,3 +80,15 @@
 -Hacer una variación, haciendolo en el ejercicio3.
 -Conseguimos mandar el mensaje del cliente al servidor y que salga en mayusculas con el toUpperCase.
 
+ ----------
+|03/10/2024|
+ ----------
+-Vamos a continuar con los mensajes entre servidor y cliente.
+-Creamos el paquete TCPFlujoContinuo.
+-Y el fichero de ServerContinuo.
+-Creamos un servidor eco, donde pasaremos continuamente un mensaje al servidor desde el cliente cuando nos conectemos.
+-Tarea tenemos que cuando el cliente pase el asterisco al servidor se cierren ambos.
+-Tenemos que hacer que el servidor te suba la cadena a mayusculas.
+-Creamos el paquete TCPChat.
+-Copiamos las clases anteriores, pero les cambiamos a ServerChat y ClienteChat.
+

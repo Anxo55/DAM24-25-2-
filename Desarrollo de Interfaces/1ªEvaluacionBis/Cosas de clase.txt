@@ -217,3 +217,14 @@ Herramientas para hacer testeos(vitest o jest).
 -Api en vanilla para mostrar las imagenes de los pokemons de frontal.
 -Podemos llamar a la api con fetch o coon async.
 
+ ----------
+|03/10/2024|
+ ----------
+-Vamos a ver Desestructuración.
+-Vemos en el primer fichero los ejemplos y creamos el segundo para seguir viendolo.
+-Practicando en el AprendeTu de Angel, tengo que seguir repasando Referencias y valores que tengo varios fallos.
+-Vamos a reforzar lo de Arrow functions.
+-En las funciones de flecha siempre la declaramos con el let o const y su nombre y es igual al valor que le pasaremos
+ luego se le pasa la flecha que es lo que va dentro de dicha funcion.
+-Usando rest, podemos añadir lo de otra constante en una nueva creada despues.
+
